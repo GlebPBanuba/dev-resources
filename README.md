@@ -448,6 +448,8 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.google.com/s2/favicons?domain=https://code.visualstudio.com/&sz=128" width="16" /> | [Visual Studio Code](https://code.visualstudio.com/) | Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.  Visual Studio Code is free and available on your favorite platform - Linux, m... |  |
  <img src="https://www.google.com/s2/favicons?domain=https://wallabyjs.com/&sz=128" width="16" /> | [Wallaby.js](https://wallabyjs.com/) | Wallaby.js runs your JavaScript and TypeScript tests immediately as you type in VS Code, WebStorm and other editors, highlighting results next to your code. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.jetbrains.com/webstorm/&sz=128" width="16" /> | [WebStorm](https://www.jetbrains.com/webstorm/) | A powerful IDE for modern JavaScript development with code completion and refactoring for JavaScript, TypeScript, and the most popular web frameworks. |  |
+ <img src="https://www.google.com/s2/favicons?domain=https://www.banuba.com/&sz=128" width="16" /> | [Video Editor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers)            | Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones. | video editor |
+
 
 **[⬆ Back to Index](#index)**
 
@@ -1631,6 +1633,7 @@ Looking for public APIs? Visit [github.com/public-apis-dev/public-apis](https://
  <img src="https://www.google.com/s2/favicons?domain=https://www.screen.studio&sz=128" width="16" /> | [Screen Studio](https://www.screen.studio) | Screen Studio is a professional and simple to use screen recorder for macOS that lets you create professionally looking screen recordings & tutorial videos in minutes, without video editing skills nee... | video, editor, mac, app, screen, recorder |
  <img src="https://www.google.com/s2/favicons?domain=https://www.shutterstock.com/&sz=128" width="16" /> | [Shutterstock](https://www.shutterstock.com/) | Download the best royalty free images from Shutterstock, including photos, vectors, and illustrations. Enjoy straightforward pricing and simple licensing. |  |
  <img src="https://www.google.com/s2/favicons?domain=https://www.unscreen.com/&sz=128" width="16" /> | [Unscreen](https://www.unscreen.com/) | Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen. |  |
+<img src="https://www.google.com/s2/favicons?domain=https://www.banuba.com/&sz=128" width="16" /> | [Video Editor SDK](https://www.banuba.com/video-editor-sdk-best-for-developers)            | Video Editor SDK (Android & iOS) is a fully-functional video editor that can be integrated into an app in minutes, designed to create exciting social media content with a wide range of effects and filters for professional-quality videos on phones. | video editor |
 
 **[⬆ Back to Index](#index)**
 
